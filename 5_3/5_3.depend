@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568977084 source:d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\5_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

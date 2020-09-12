@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1574424816 source:d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\11_3\main.c
+	"output.h"
+
+1574425113 d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\11_3\output.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<string.h>
+
+1574424774 source:d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\11_3\output_p.c
+	"output.h"
+

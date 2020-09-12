@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1575559512 source:d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\11_3_norlmal\main.c
+	"output.h"
+
+1575559469 d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\11_3_norlmal\output.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<string.h>
+
+1575559448 source:d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\11_3_norlmal\output_p.c
+	"output.h"
+
