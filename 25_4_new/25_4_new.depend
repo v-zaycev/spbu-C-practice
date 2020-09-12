@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1589826088 source:d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\25_4_new\functions.c
+	"functions.h"
+
+1588016925 d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\25_4_new\functions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+
+1589826127 source:d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\25_4_new\main.c
+	"functions.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
