@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1576188788 source:d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\12_5a\in_out.c
+	"in_out.h"
+
+1576188557 d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\12_5a\in_out.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
+1582874420 source:d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\12_5a\main.c
+	"string_sum.h"
+
+1582874406 d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\12_5a\string_sum.h
+	"in_out.h"
+
+1582874406 source:d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\12_5a\string_sum.c
+	"string_sum.h"
+

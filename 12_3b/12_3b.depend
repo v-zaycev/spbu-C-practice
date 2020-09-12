@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1582876296 source:d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\12_3b\exclude_rep.c
+	"exclude_rep.h"
+
+1582874194 d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\12_3b\exclude_rep.h
+	"in_out.h"
+
+1575918916 d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\12_3b\in_out.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
+1575918916 source:d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\12_3b\in_out.c
+	"in_out.h"
+
+1582872815 source:d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\12_3b\main.c
+	"exclude_rep.h"
+
