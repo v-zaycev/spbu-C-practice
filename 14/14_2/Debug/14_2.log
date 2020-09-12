@@ -1,0 +1,6 @@
+﻿  in_out.c
+  Main.c
+c:\users\владимир\source\repos\14\14_2\main.c(18): warning C4013: double_scan: нет определения; предполагается "extern" с возвратом типа "int"
+  Stats.c
+  Создание кода...
+  14_2.vcxproj -> C:\Users\Владимир\source\repos\14\Debug\14_2.exe

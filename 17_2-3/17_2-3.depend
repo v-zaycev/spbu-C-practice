@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1588015750 source:d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\17_2-3\main.c
+	"substring.h"
+
+1587969993 d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\17_2-3\substring.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1588015742 source:d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\17_2-3\substr.c
+	"substring.h"
+

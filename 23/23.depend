@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1590860885 source:d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\23\main.c
+	"Matrix.h"
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1589659307 d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\23\matrix.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<math.h>
+	<string.h>
+
+1590860885 source:d:\СПбГУ_2019\Практикум ЭВМ\Проекты С\23\matrix.c
+	"Matrix.h"
+
